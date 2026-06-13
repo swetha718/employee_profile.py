@@ -1,0 +1,14 @@
+==================================================
+EMPLOYEE PROFILE
+==================================================
+Employee: John Doe | Age: 28 | Position: Data Analyst | Salary: $75000
+Experience: 5 years
+Address: 123 Main Street, Apartment 4B
+
+Employee Code: DEV-2026-JD-001
+Department: DEV
+Year: 2026
+Initials: JD
+==================================================
+
+Program completed successfully!
